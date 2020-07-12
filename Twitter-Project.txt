@@ -1,0 +1,7 @@
+Twitter Project
+pull all tweets from BLM and blue lives or all lives 
+then see the intersection between the two or replying tweets >> sentiment analysis?
+
+
+python3 -m venv env
+source ./env/bin/activate 
